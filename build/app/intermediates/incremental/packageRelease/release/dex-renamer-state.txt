@@ -1,0 +1,4 @@
+#Mon Jan 07 16:47:52 GST 2019
+base.0=D\:\\Flutter\\flutterlogin-master\\build\\app\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

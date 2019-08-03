@@ -1,0 +1,4 @@
+#Sun Jan 06 09:35:27 GST 2019
+base.0=D\:\\Flutter\\flutterlogin-master\\build\\app\\intermediates\\transforms\\dexMerger\\profile\\0
+path.0=classes.dex
+renamed.0=classes.dex

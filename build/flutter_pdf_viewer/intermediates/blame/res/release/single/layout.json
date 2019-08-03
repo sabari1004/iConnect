@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\flutter_pdf_viewer\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\42a96421214fa52616a9f5124c25caf6\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\flutter_pdf_viewer\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\42a96421214fa52616a9f5124c25caf6\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\flutter_pdf_viewer\\intermediates\\res\\merged\\release\\layout\\pdf_viewer_layout.xml",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_pdf_viewer-0.0.4\\android\\src\\main\\res\\layout\\pdf_viewer_layout.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\flutter_pdf_viewer\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\a4d0f0b9ac980f0d0592a39d5441205b\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\flutter_pdf_viewer\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\a4d0f0b9ac980f0d0592a39d5441205b\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\flutter_pdf_viewer\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\a4d0f0b9ac980f0d0592a39d5441205b\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\flutter_pdf_viewer\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\a4d0f0b9ac980f0d0592a39d5441205b\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\flutter_pdf_viewer\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\42a96421214fa52616a9f5124c25caf6\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\flutter_pdf_viewer\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\a4d0f0b9ac980f0d0592a39d5441205b\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\flutter_pdf_viewer\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\a4d0f0b9ac980f0d0592a39d5441205b\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\flutter_pdf_viewer\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\a4d0f0b9ac980f0d0592a39d5441205b\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\flutter_pdf_viewer\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\a4d0f0b9ac980f0d0592a39d5441205b\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\flutter_pdf_viewer\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\42a96421214fa52616a9f5124c25caf6\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\flutter_pdf_viewer\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\a4d0f0b9ac980f0d0592a39d5441205b\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\flutter_pdf_viewer\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\42a96421214fa52616a9f5124c25caf6\\res\\layout\\notification_template_part_chronometer.xml"
+    }
+]

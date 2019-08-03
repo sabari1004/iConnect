@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\42a96421214fa52616a9f5124c25caf6\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable\\fingerprint_warning_icon.xml",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\local_auth-0.2.1\\android\\src\\main\\res\\drawable\\fingerprint_warning_icon.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\42a96421214fa52616a9f5124c25caf6\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\42a96421214fa52616a9f5124c25caf6\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable\\fingerprint_initial_icon.xml",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\local_auth-0.2.1\\android\\src\\main\\res\\drawable\\fingerprint_initial_icon.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable\\fingerprint_success_icon.xml",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\local_auth-0.2.1\\android\\src\\main\\res\\drawable\\fingerprint_success_icon.xml"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\42a96421214fa52616a9f5124c25caf6\\res\\drawable\\notification_bg_low.xml"
+    }
+]

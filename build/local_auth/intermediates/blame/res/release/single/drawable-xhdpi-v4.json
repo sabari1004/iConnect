@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_fingerprint_white_24dp.png",
+        "source": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_fingerprint_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_done_white_24dp.png",
+        "source": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\42a96421214fa52616a9f5124c25caf6\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\42a96421214fa52616a9f5124c25caf6\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_priority_high_white_24dp.png",
+        "source": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_priority_high_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\42a96421214fa52616a9f5124c25caf6\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\42a96421214fa52616a9f5124c25caf6\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\sabarish.kamaraju\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\42a96421214fa52616a9f5124c25caf6\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    }
+]

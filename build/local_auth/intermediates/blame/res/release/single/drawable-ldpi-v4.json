@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_fingerprint_white_24dp.png",
+        "source": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_fingerprint_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_done_white_24dp.png",
+        "source": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_priority_high_white_24dp.png",
+        "source": "D:\\Flutter\\flutterlogin-master\\build\\local_auth\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_priority_high_white_24dp.png"
+    }
+]

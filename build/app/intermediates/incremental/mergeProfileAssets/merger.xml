@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":fluttertoast"><source path="D:\Flutter\flutterlogin-master\build\fluttertoast\intermediates\bundles\profile\assets"/></dataSet><dataSet config="main"><source path="D:\Flutter\flutterlogin-master\android\app\src\main\assets"/><source path="D:\Flutter\flutterlogin-master\build\app\generated\assets\shaders\profile"/></dataSet><dataSet config="profile"><source path="D:\Flutter\flutterlogin-master\android\app\src\profile\assets"/></dataSet></merger>

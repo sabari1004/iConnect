@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Flutter\flutterlogin-master\build\fluttertoast\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a58ccd9415b09b6e16dbe3668f4d8f15587e7ff3">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Flutter\flutterlogin-master\build\local_auth\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="51f2eacba083b77fb27a1d6d78df688bc9bc89f1">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\0c1a15d32d3e00bb2e0d5159bd6c690a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ecd6ef3aa69b64e8752760908af86b72\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Flutter\flutterlogin-master\build\path_provider\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c61001b313e136f96cadd8fb4fcd6c2ec8616461">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\97708d2ab9cd692ac603846fed088c8f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\src\flutter\bin\cache\artifacts\engine\android-arm-release\flutter.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9ba30523df090fd7439d391f9324c5b30baac813">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\996fbf64ffbe12593dffa03243e9e61b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\transforms-1\files-1.1\android-pdf-viewer-3.1.0-beta.1.aar\43e34563da1e51d6d000ab4406f88721\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4038752f3901c6431d7ac057ea0f2efeddcb3709">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\09189cb3c893478db78edb9e048218d2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\996bee1175f0261f048c3896f94b3fff\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6140325db2626abd3aa051cdb762a156\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a189b068efb9979927ce7e4a5d818412\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a4d0f0b9ac980f0d0592a39d5441205b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7b9e4f97072e13f672a401bbf7579336\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4e3f7305048ceba5f134a2d8db7e5d67\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fc639b9eea3a2e45edf6efb1309f6540\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\transforms-1\files-1.1\pdfium-android-1.9.0.aar\ef5f3bf1ba4cb1740d5d3aaeb85e7c95\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="586edfbac92942d559278e273030b18ac1d17e09">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Flutter\flutterlogin-master\build\flutter_pdf_viewer\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23980d7b4ce0dfc4b008f69f8ac29aa51ca7fee3">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sabarish.kamaraju\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6255fca455654df079d1d9887b7215b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Flutter\flutterlogin-master\build\shared_preferences\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="733ab7c752f93b731720a27016bd46343a8121a5">
+        <dex dex="D:\Flutter\flutterlogin-master\build\app\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+
+</items>
